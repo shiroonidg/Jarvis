@@ -48,11 +48,11 @@ Jarvis online. Say my name to activate me.
 
 ## Example commands 
 
-Open YouTube
-Open Google
-Play music
-Search Python tutorials
-What time is it
+Open YouTube,
+Open Google,
+Play music,
+Search Python tutorials,
+What time is it,
 Stop
 
 
